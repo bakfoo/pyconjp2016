@@ -12,6 +12,12 @@
 ## スライド
 - 週末サイエンティストのススメ: http://www.slideshare.net/yutakashino/pyconjp2016
 
+## 事例：Jupyterノートブック
+- 事例1.気象データ可視化: https://github.com/bakfoo/pyconjp2016/blob/master/meteology/ulmo_pyconjp2016.ipynb
+- 事例2.地震波解析: https://github.com/bakfoo/pyconjp2016/blob/master/sesimology/obspy_pyconjp2016.ipynb
+- 事例3.重力波解析: https://github.com/bakfoo/pyconjp2016/blob/master/ligo/gwave_pyconjp2016.ipynb
+
+
 ## More information
 
 - Official site: http://www.bakfoo.com/
@@ -19,4 +25,4 @@
 
 ## License
 
-MIT License (see `LICENSE` file).
+MIT License
